@@ -15,7 +15,7 @@
 #minimal_mistakes_skin    : "air" # "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "Berlin- DE"
+locale                   : "de-DE"
 title                    : "Aline Viol 2 "
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -112,7 +112,6 @@ author:
   bio              : " Scientist researcher"
   location         : "Berlin - DE"
   email            : alineviol@email.com
-   linkedin        : "Aline Viol "
 
   links:
 
@@ -130,7 +129,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/"
+       url: #"https://github.com/"
     -  label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"

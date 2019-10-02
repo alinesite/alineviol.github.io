@@ -111,10 +111,12 @@ author:
   avatar           : "/home/aviol/myrepos/website_aviol/alineviol/figure/screenshot.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : " Scientist researcher"
   location         : "Berlin - DE"
-  email            :
-  links:
-     linkedin: "Aline Viol "
-  "
+  email            : alineviol@email.com
+   linkedin        : "Aline Viol "
+
+  #links:
+
+
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
@@ -128,7 +130,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"

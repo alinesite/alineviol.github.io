@@ -10,9 +10,9 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+ theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+#minimal_mistakes_skin    : "air" # "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "Berlin- DE"
@@ -53,7 +53,7 @@ staticman:
   path                   : # "/_data/comments/{options.slug}" (default)
   requiredFields         : # ['name', 'email', 'message']
   transforms:
-    email                : # "md5"
+    email                : "alineviol@email.com" # "md5"
   generatedFields:
     date:
       type               : # "date"
@@ -113,7 +113,7 @@ author:
   location         : "Berlin - DE"
   email            :
   links:
-    - label: "alineviol
+     linkedin: "Aline Viol "
   "
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
